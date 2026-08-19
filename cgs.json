@@ -1,0 +1,17 @@
+{
+  "name": "Cuajo Filipino",
+  "autoUpdateUrl": "cgs.json",
+  "allCardsUrl": "AllCards.json",
+  "allSetsUrl": "AllSets.json",
+  "allDecksUrl": "AllDecks.json",
+  "bannerImageUrl": "CardBack.png",
+  "cardBackImageUrl": "CardBack.png",
+  "cardImageUrl": "sets/{cardSet}/{cardId}.png",
+  "cardImageFileType": "png",
+  "deckUrls": [
+    {
+      "name": "Cuajo_112_Deck",
+      "url": "decks/Cuajo_112_Deck.txt"
+    }
+  ]
+}

@@ -1,0 +1,142 @@
+[
+  {
+    "set": "CUAJO",
+    "id": "OR_AS",
+    "name": "As de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_3",
+    "name": "3 de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_4",
+    "name": "4 de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_5",
+    "name": "5 de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_SOTA",
+    "name": "Sota de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_CABALLO",
+    "name": "Caballo de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "OR_REY",
+    "name": "Rey de Oros"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_AS",
+    "name": "As de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_3",
+    "name": "3 de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_4",
+    "name": "4 de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_5",
+    "name": "5 de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_SOTA",
+    "name": "Sota de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_CABALLO",
+    "name": "Caballo de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "CO_REY",
+    "name": "Rey de Copas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_AS",
+    "name": "As de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_3",
+    "name": "3 de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_4",
+    "name": "4 de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_5",
+    "name": "5 de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_SOTA",
+    "name": "Sota de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_CABALLO",
+    "name": "Caballo de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "ES_REY",
+    "name": "Rey de Espadas"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_AS",
+    "name": "As de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_3",
+    "name": "3 de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_4",
+    "name": "4 de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_5",
+    "name": "5 de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_SOTA",
+    "name": "Sota de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_CABALLO",
+    "name": "Caballo de Bastos"
+  },
+  {
+    "set": "CUAJO",
+    "id": "BA_REY",
+    "name": "Rey de Bastos"
+  }
+]
